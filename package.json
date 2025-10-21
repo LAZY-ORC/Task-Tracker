@@ -1,0 +1,15 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "A simple command-line task tracker built with Node.js. Track your daily tasks with features like add, update, delete, and status management (todo, in-progress, done).",
+  "main": "index.js",
+  "bin": {
+    "task-cli": "./task-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["task", "tracker", "cli", "todo"],
+  "author": "",
+  "license": "ISC"
+}
